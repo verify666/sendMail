@@ -1,0 +1,3 @@
+# sendMail
+邮件发送
+SimpleMailMessage简单发送和MimeMessage复杂发送
